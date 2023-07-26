@@ -1,0 +1,16 @@
+package festival;
+
+public class Ex08_AtoZ {
+
+	public static void main(String[] args) {
+		// A-Z까지 출력
+		for(char i = 'Z'; i>'A'; i--) {
+			for(char j = 'A'; j<=i; j++) {
+				System.out.print(j);
+			}System.out.println();
+		}
+		
+
+	}
+
+}

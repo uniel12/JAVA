@@ -1,0 +1,10 @@
+package festival;
+
+public class Ex13우측_별삼각형 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

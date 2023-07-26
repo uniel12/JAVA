@@ -1,0 +1,14 @@
+package festival;
+
+public class Ex07for문_곱 {
+
+	public static void main(String[] args) {
+		
+		for(int i=1; i<=77; i++) {
+			for(int )
+			
+		}
+
+	}
+
+}

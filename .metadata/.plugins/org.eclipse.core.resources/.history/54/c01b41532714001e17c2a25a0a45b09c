@@ -1,0 +1,14 @@
+package festival;
+
+public class Ex08_AtoZ {
+
+	public static void main(String[] args) {
+		// A-Z까지 출력
+
+        int num = 97;
+        char c = (char) num;
+        System.out.println(c);
+
+		}
+
+	}

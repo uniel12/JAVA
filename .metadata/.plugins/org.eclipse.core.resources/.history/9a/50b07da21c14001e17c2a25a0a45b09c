@@ -1,0 +1,18 @@
+package festival;
+
+public class Ex07for문_곱 {
+
+	public static void main(String[] args) {
+		int sum = 1;
+		for(int i=1; i<=77; i++) {
+			
+			for(int j=77; j>=1; i--) {
+				sum += (i*j);
+			}
+			System.out.println(sum);
+			
+		}
+
+	}
+
+}

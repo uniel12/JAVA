@@ -1,0 +1,12 @@
+package festival;
+
+public class Ex12합일치프로그램 {
+
+	public static void main(String[] args) {
+		
+		//랜덤으로 숫자 뽑아 두 수 합 일치 ->O "Success" ->X "Fail"
+		//기회 5번 실패 "GAME OVER"
+		
+	}
+
+}
